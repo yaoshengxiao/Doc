@@ -14,7 +14,7 @@
 │   ├── event.css        (极客观察)
 │   ├── handheld.css     
 │   ├── icons.css        (标签部分ICON)
-│   ├── images            
+│   ├── images           (涉及到CSS调用的images)
 │   ├── job-style.css    (招聘页面)
 │   ├── login-style.css  (注册登录页面)
 │   ├── media.css
@@ -23,7 +23,7 @@
 ├── data
 ├── favicon.ico
 ├── favicon.png
-├── img                  (CSS以外调用的图片素材)
+├── img                  (CSS以外调用的images)
 │   ├── icons
 │   └── tmp
 └── js
