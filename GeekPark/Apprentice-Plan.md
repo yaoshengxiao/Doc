@@ -116,6 +116,7 @@
 
 [极客公园入职须知]: #
 [极客公园前端代码规范]: https://github.com/GeekPark/GeekPark-FrontEnd-Standard
+[极客公园相关Doc]: https://github.com/GeekPark/Doc
 [Codecademy jQuery]: http://www.codecademy.com/tracks/jquery
 [Sublime Text 2]: http://www.sublimetext.com/2
 [Notepad++]: http://notepad-plus-plus.org/
