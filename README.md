@@ -14,4 +14,4 @@
 [技术团队*路由代理*解决方案和使用须知]: https://github.com/GeekPark/Doc/wiki/%E6%8A%80%E6%9C%AF%E5%9B%A2%E9%98%9F%5B%E8%B7%AF%E7%94%B1%E4%BB%A3%E7%90%86%5D%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%E5%92%8C%E4%BD%BF%E7%94%A8%E9%A1%BB%E7%9F%A5
 
 
-[极客公园实习生 - 前端工程师 培训计划]: https://github.com/hzlzh/Doc/blob/master/GeekPark/Apprentice-Plan.md
+[极客公园实习生 - 前端工程师 培训计划]: https://github.com/GeekPark/Doc/blob/master/GeekPark/Apprentice-Plan.md
