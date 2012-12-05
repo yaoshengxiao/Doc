@@ -1,5 +1,6 @@
 ### Docs 相关链接
 * [极客公园实习生 - 前端工程师 培训计划]
+* [GeekPark-Style-for-Mou.css] \(for Markdown [Mou] app on Mac OS X)
 
 
 ### [Wiki page index](https://github.com/GeekPark/Doc/wiki/_pages)  
@@ -15,3 +16,6 @@
 
 
 [极客公园实习生 - 前端工程师 培训计划]: https://github.com/GeekPark/Doc/blob/master/GeekPark/Apprentice-Plan.md
+
+[GeekPark-Style-for-Mou.css]: https://github.com/GeekPark/Doc/blob/master/GeekPark/GeekPark-Style-for-Mou.css 'Mou 样式'
+[Mou]: http://mouapp.com/ 'Mac Markdown 编辑器'
